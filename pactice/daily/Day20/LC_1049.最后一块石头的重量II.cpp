@@ -2,7 +2,7 @@
  * url:https://leetcode.cn/problems/last-stone-weight-ii/description/
  */
 
- class Solution {
+class Solution {
 public:
     int lastStoneWeightII(vector<int>& stones) {
         vector<int> dp(15000,0);
